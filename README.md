@@ -1,7 +1,14 @@
 # Deploy into Azure ML locally
 
-## set up the azure ml studio
+## Set up the azure ml studio
 
-## running the deploy
+## Preparing the ML scripts
 
-![image info](./azure_logging/model_register.png)
+## Running the deploy ipynb
+
+## Local outputs by python
+![python_image](./outputs/postman_return.png)
+
+## Local outputs by postman
+![posimage1](./outputs/postman_deployed.png)
+![posimage2](./outputs/postman_return.png)
