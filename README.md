@@ -7,7 +7,7 @@
 ## Running the deploy ipynb
 
 ## Local outputs by python
-![python_image](./outputs/postman_return.png)
+![python_image](./outputs/python_return_value.png)
 
 ## Local outputs by postman
 ![posimage1](./outputs/postman_deployed.png)
